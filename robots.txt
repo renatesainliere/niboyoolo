@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chugahfoh.laceless.net/sitemap.xml
